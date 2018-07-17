@@ -1,0 +1,9 @@
+# Don't track content of these folders
+
+
+
+#  source #
+###################
+terraform.tfstate
+terraform.tfstate.*
+.terraform/

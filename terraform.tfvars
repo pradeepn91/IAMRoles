@@ -1,0 +1,7 @@
+AWS_ACCESS_KEY = "AKIAIVFJARVD3N4IPX5Q"
+
+AWS_SECRET_KEY = "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"
+
+REGION = "us-east-1"
+
+bucketname = "pradeeptestbucket"
